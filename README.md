@@ -4,7 +4,7 @@ Northcoders have set up an api to serve data about past and present employees he
 
 Your first task is to retrieve the instructions left for you by your mole on the inside...
 
-* Make a http request using nodes http module to the following endpoint to get the instructions left for you: /api/confidential 
+* Make a http request using nodes https module to the following endpoint to get the instructions left for you: /api/confidential 
 
 * Once you have recieved the response save the message locally as a markdown file for further instructions.
 
