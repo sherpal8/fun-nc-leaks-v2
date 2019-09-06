@@ -1,0 +1,30 @@
+{
+  "ziziou91": [{ "name": "Karl", "kind": "llama", "alive": true }],
+  "popcorn": [
+    { "name": "Opal", "kind": "cat", "alive": true },
+    { "name": "Jeffry", "kind": "cat", "alive": false }
+  ],
+  "MissMallion": [
+    { "name": "Holly", "kind": "hamster", "alive": false },
+    { "name": "James Pond", "kind": "goldfish", "alive": false }
+  ],
+  "icellusedkars": [
+    { "name": "Otis", "kind": "dog", "alive": false },
+    { "name": "Branston", "kind": "dog", "alive": true }
+  ],
+  "RuthYMNg": [{ "name": "Henna", "kind": "cat", "alive": false }],
+  "rogersop": [
+    { "name": "Dave", "kind": "cat", "alive": false },
+    { "name": "Pinchy", "kind": "lobster", "alive": false }
+  ],
+  "dedekind561": [
+    { "name": "Elgar", "kind": "pidgeon", "alive": true },
+    { "name": "Rodrigo", "kind": "alpaca", "alive": true }
+  ],
+  "anatdean": [{ "name": "Shnitzel", "kind": "cat", "alive": true }],
+  "P-Copley": [{ "name": "Felix", "kind": "cat", "alive": true }],
+  "tomosim": [
+    { "name": "Barney", "kind": "dog", "alive": true },
+    { "name": "Shania", "kind": "rock", "alive": false }
+  ]
+}
